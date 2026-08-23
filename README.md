@@ -2,6 +2,16 @@
 
 A simple, responsive, and interactive **To-Do List web application** built using HTML, CSS, and JavaScript. The application allows users to create, edit, complete, filter, and delete tasks while automatically saving tasks in the browser using **Local Storage**.
 
+## 📸 Screenshots
+
+### Main Interface
+
+![To-Do List Main Interface](screenshots/main.png)
+
+### Edit Task
+
+![Edit Task](screenshots/edit.png)
+
 ## 🚀 Features
 
 ### ➕ Task Management
